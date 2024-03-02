@@ -297,7 +297,7 @@ h3 {
 
 .page2 .overlay {
     width: 100vw;
-    height: 100vh;
+    min-height: 100vh;
     background-color: #000000a5;
     position: absolute;
     top: 0;
